@@ -46,4 +46,7 @@ This desktop application detects accidents from video feeds using computer visio
 6. **Viewing accident screens:**
     - Use the provided options to list screens showing detected accidents.
 
----
+## Model Training
+
+The model_weights.h5 model used for accident detection is generated from the `training_cnn.ipynb` notebook.
+
