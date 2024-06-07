@@ -24,8 +24,7 @@ The `model_weights.h5` model used for accident detection is generated from the `
 
 ## YOLO v3
 
-Download :
-- The `yolov3.weights` file from this link : https://huggingface.co/spaces/Epitech/Scarecrow/blob/main/yolov3.weights 
+- Download the `yolov3.weights` file from this link : https://huggingface.co/spaces/Epitech/Scarecrow/blob/main/yolov3.weights 
 - Add the Yolo file to the folder "Yolo_Folder".
 
 ## Usage
