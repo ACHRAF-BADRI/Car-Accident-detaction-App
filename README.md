@@ -22,6 +22,13 @@ This desktop application detects accidents from video feeds using computer visio
 
 The `model_weights.h5` model used for accident detection is generated from the `training_cnn.ipynb` notebook.
 
+## YOLO v3
+
+Download :
+- The `yolov3.weights` file from this link : .
+- The `yolov3.cfg` file from this link : .
+- Add both Yolo files to the folder "Yolo_Folder".
+
 ## Usage
 
 1. **Navigate to the project directory:**
