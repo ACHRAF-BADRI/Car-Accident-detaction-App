@@ -20,7 +20,7 @@ This desktop application detects accidents from video feeds using computer visio
 
 ## Model Training
 
-The model_weights.h5 model used for accident detection is generated from the `training_cnn.ipynb` notebook.
+The `model_weights.h5` model used for accident detection is generated from the `training_cnn.ipynb` notebook.
 
 ## Usage
 
